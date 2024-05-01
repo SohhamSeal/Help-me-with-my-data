@@ -1,8 +1,8 @@
-# 📊 Help me with my data
+# Help me with my data
 
 Welcome to the "Help me with my data" project! This web development endeavor aims to provide a user-friendly platform for data preprocessing, analysis, and basic exploratory data analysis (EDA). Whether you're new to data science or a seasoned practitioner, this tool will assist you in efficiently preparing your dataset and gaining valuable insights.
 
-## ℹ️ About the Simulator
+## About the Simulator
 
 The simulator offers a seamless experience for data preprocessing and analysis. Here's what you can expect:
 
